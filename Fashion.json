@@ -1,0 +1,1912 @@
+{
+  "seller": {
+    "id": "SELLER-FASHION-002",
+    "name": "UrbanStyle Fashion",
+    "category": "Fashion",
+    "catalogVersion": "1.0"
+  },
+  "categories": [
+    "Fashion",
+    "Shirts",
+    "T-Shirts",
+    "Jeans",
+    "Kurtis",
+    "Trousers",
+    "Jackets",
+    "Sweatshirts",
+    "Dresses",
+    "Ethnic Wear",
+    "Sarees",
+    "Co-ord Sets",
+    "Kids Wear"
+  ],
+  "products": [
+    {
+      "id": "FAS-001",
+      "sku": "SH-CAS-001",
+      "name": "Classic Cotton Casual Shirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Shirts",
+      "price": 1499,
+      "originalPrice": 1999,
+      "discountPercentage": 25,
+      "currency": "INR",
+      "stock": 45,
+      "availability": "In Stock",
+      "shortDescription": "Stylish shirts designed for comfortable men wear.",
+      "description": "Classic Cotton Casual Shirt combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-001-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Blue",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Classic Cotton Casual Shirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Classic Cotton Casual Shirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.3,
+      "reviewCount": 58,
+      "countryOfOrigin": "India",
+      "region": "Kerala",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-002",
+      "sku": "SH-FOR-002",
+      "name": "Slim Fit Formal Shirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Shirts",
+      "price": 1799,
+      "originalPrice": 2299,
+      "discountPercentage": 22,
+      "currency": "INR",
+      "stock": 32,
+      "availability": "In Stock",
+      "shortDescription": "Stylish shirts designed for comfortable men wear.",
+      "description": "Slim Fit Formal Shirt combines contemporary style, comfortable fit and quality cotton blend fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-002-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton Blend"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Slim Fit Formal Shirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Slim Fit Formal Shirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.4,
+      "reviewCount": 71,
+      "countryOfOrigin": "India",
+      "region": "Karnataka",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-003",
+      "sku": "TS-POL-003",
+      "name": "Premium Polo T-Shirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "T-Shirts",
+      "price": 999,
+      "originalPrice": 1399,
+      "discountPercentage": 29,
+      "currency": "INR",
+      "stock": 55,
+      "availability": "In Stock",
+      "shortDescription": "Stylish t-shirts designed for comfortable men wear.",
+      "description": "Premium Polo T-Shirt combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-003-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Navy",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Premium Polo T-Shirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Premium Polo T-Shirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.5,
+      "reviewCount": 84,
+      "countryOfOrigin": "India",
+      "region": "Maharashtra",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-004",
+      "sku": "TS-OVR-004",
+      "name": "Oversized Graphic T-Shirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "T-Shirts",
+      "price": 899,
+      "originalPrice": 1299,
+      "discountPercentage": 31,
+      "currency": "INR",
+      "stock": 48,
+      "availability": "In Stock",
+      "shortDescription": "Stylish t-shirts designed for comfortable unisex wear.",
+      "description": "Oversized Graphic T-Shirt combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-004-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Black",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Oversized Graphic T-Shirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Oversized Graphic T-Shirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Unisex",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.6,
+      "reviewCount": 97,
+      "countryOfOrigin": "India",
+      "region": "Delhi",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-005",
+      "sku": "JN-MEN-005",
+      "name": "Men's Regular Fit Jeans",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Jeans",
+      "price": 1999,
+      "originalPrice": 2799,
+      "discountPercentage": 29,
+      "currency": "INR",
+      "stock": 38,
+      "availability": "In Stock",
+      "shortDescription": "Stylish jeans designed for comfortable men wear.",
+      "description": "Men's Regular Fit Jeans combines contemporary style, comfortable fit and quality denim fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-005-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Denim",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Dark Blue",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Denim"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Men's Regular Fit Jeans - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Men's Regular Fit Jeans",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.7,
+      "reviewCount": 110,
+      "countryOfOrigin": "India",
+      "region": "Telangana",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-006",
+      "sku": "KT-WOM-006",
+      "name": "Women's Floral Kurti",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Kurtis",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercentage": 28,
+      "currency": "INR",
+      "stock": 42,
+      "availability": "In Stock",
+      "shortDescription": "Stylish kurtis designed for comfortable women wear.",
+      "description": "Women's Floral Kurti combines contemporary style, comfortable fit and quality rayon fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-006-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Rayon",
+        "Fit": "Regular Fit",
+        "Pattern": "Printed",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Pink",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Rayon"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Floral Kurti - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Floral Kurti",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.2,
+      "reviewCount": 123,
+      "countryOfOrigin": "India",
+      "region": "Gujarat",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-007",
+      "sku": "KT-ANA-007",
+      "name": "Women's Anarkali Kurta",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Kurtis",
+      "price": 1899,
+      "originalPrice": 2499,
+      "discountPercentage": 24,
+      "currency": "INR",
+      "stock": 26,
+      "availability": "In Stock",
+      "shortDescription": "Stylish kurtis designed for comfortable women wear.",
+      "description": "Women's Anarkali Kurta combines contemporary style, comfortable fit and quality rayon fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-007-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Rayon",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Maroon",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Rayon"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Anarkali Kurta - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Anarkali Kurta",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.3,
+      "reviewCount": 136,
+      "countryOfOrigin": "India",
+      "region": "Rajasthan",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-008",
+      "sku": "JN-WOM-008",
+      "name": "Women's Straight Fit Jeans",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Jeans",
+      "price": 1799,
+      "originalPrice": 2499,
+      "discountPercentage": 28,
+      "currency": "INR",
+      "stock": 34,
+      "availability": "In Stock",
+      "shortDescription": "Stylish jeans designed for comfortable women wear.",
+      "description": "Women's Straight Fit Jeans combines contemporary style, comfortable fit and quality denim fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-008-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Denim",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Light Blue",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Denim"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Straight Fit Jeans - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Straight Fit Jeans",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.4,
+      "reviewCount": 149,
+      "countryOfOrigin": "India",
+      "region": "West Bengal",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-009",
+      "sku": "TR-WOM-009",
+      "name": "Women's High Waist Trousers",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Trousers",
+      "price": 1599,
+      "originalPrice": 2199,
+      "discountPercentage": 27,
+      "currency": "INR",
+      "stock": 29,
+      "availability": "In Stock",
+      "shortDescription": "Stylish trousers designed for comfortable women wear.",
+      "description": "Women's High Waist Trousers combines contemporary style, comfortable fit and quality polyester fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-009-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Polyester",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Beige",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Polyester"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's High Waist Trousers - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's High Waist Trousers",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.5,
+      "reviewCount": 162,
+      "countryOfOrigin": "India",
+      "region": "Andhra Pradesh",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-010",
+      "sku": "JK-DEN-010",
+      "name": "Women's Casual Denim Jacket",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Jackets",
+      "price": 2499,
+      "originalPrice": 3299,
+      "discountPercentage": 24,
+      "currency": "INR",
+      "stock": 21,
+      "availability": "In Stock",
+      "shortDescription": "Stylish jackets designed for comfortable women wear.",
+      "description": "Women's Casual Denim Jacket combines contemporary style, comfortable fit and quality denim fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-010-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Denim",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Blue",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Denim"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Casual Denim Jacket - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Casual Denim Jacket",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.6,
+      "reviewCount": 175,
+      "countryOfOrigin": "India",
+      "region": "Tamil Nadu",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-011",
+      "sku": "JK-BOM-011",
+      "name": "Men's Lightweight Bomber Jacket",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Jackets",
+      "price": 2799,
+      "originalPrice": 3699,
+      "discountPercentage": 24,
+      "currency": "INR",
+      "stock": 18,
+      "availability": "In Stock",
+      "shortDescription": "Stylish jackets designed for comfortable men wear.",
+      "description": "Men's Lightweight Bomber Jacket combines contemporary style, comfortable fit and quality polyester fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-011-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Polyester",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Olive",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Polyester"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Men's Lightweight Bomber Jacket - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Men's Lightweight Bomber Jacket",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.7,
+      "reviewCount": 188,
+      "countryOfOrigin": "India",
+      "region": "Kerala",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-012",
+      "sku": "SW-HOD-012",
+      "name": "Unisex Hooded Sweatshirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Sweatshirts",
+      "price": 1599,
+      "originalPrice": 2199,
+      "discountPercentage": 27,
+      "currency": "INR",
+      "stock": 40,
+      "availability": "In Stock",
+      "shortDescription": "Stylish sweatshirts designed for comfortable unisex wear.",
+      "description": "Unisex Hooded Sweatshirt combines contemporary style, comfortable fit and quality cotton blend fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-012-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Grey",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton Blend"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Unisex Hooded Sweatshirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Unisex Hooded Sweatshirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Unisex",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.2,
+      "reviewCount": 201,
+      "countryOfOrigin": "India",
+      "region": "Karnataka",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-013",
+      "sku": "DR-MAX-013",
+      "name": "Women's Printed Maxi Dress",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Dresses",
+      "price": 2299,
+      "originalPrice": 2999,
+      "discountPercentage": 23,
+      "currency": "INR",
+      "stock": 25,
+      "availability": "In Stock",
+      "shortDescription": "Stylish dresses designed for comfortable women wear.",
+      "description": "Women's Printed Maxi Dress combines contemporary style, comfortable fit and quality viscose fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-013-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Viscose",
+        "Fit": "Regular Fit",
+        "Pattern": "Printed",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Green",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Viscose"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Printed Maxi Dress - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Printed Maxi Dress",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.3,
+      "reviewCount": 214,
+      "countryOfOrigin": "India",
+      "region": "Maharashtra",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-014",
+      "sku": "DR-MID-014",
+      "name": "Women's Party Midi Dress",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Dresses",
+      "price": 2499,
+      "originalPrice": 3299,
+      "discountPercentage": 24,
+      "currency": "INR",
+      "stock": 20,
+      "availability": "In Stock",
+      "shortDescription": "Stylish dresses designed for comfortable women wear.",
+      "description": "Women's Party Midi Dress combines contemporary style, comfortable fit and quality polyester fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-014-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Polyester",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Black",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Polyester"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Party Midi Dress - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Party Midi Dress",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.4,
+      "reviewCount": 227,
+      "countryOfOrigin": "India",
+      "region": "Delhi",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-015",
+      "sku": "TR-MEN-015",
+      "name": "Men's Linen Casual Trousers",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Trousers",
+      "price": 1899,
+      "originalPrice": 2599,
+      "discountPercentage": 27,
+      "currency": "INR",
+      "stock": 30,
+      "availability": "In Stock",
+      "shortDescription": "Stylish trousers designed for comfortable men wear.",
+      "description": "Men's Linen Casual Trousers combines contemporary style, comfortable fit and quality linen blend fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-015-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Linen Blend",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Cream",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Linen Blend"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Men's Linen Casual Trousers - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Men's Linen Casual Trousers",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.5,
+      "reviewCount": 240,
+      "countryOfOrigin": "India",
+      "region": "Telangana",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-016",
+      "sku": "KT-MEN-016",
+      "name": "Men's Traditional Kurta",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Ethnic Wear",
+      "price": 1699,
+      "originalPrice": 2299,
+      "discountPercentage": 26,
+      "currency": "INR",
+      "stock": 35,
+      "availability": "In Stock",
+      "shortDescription": "Stylish ethnic wear designed for comfortable men wear.",
+      "description": "Men's Traditional Kurta combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-016-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "White",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Men's Traditional Kurta - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Men's Traditional Kurta",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.6,
+      "reviewCount": 253,
+      "countryOfOrigin": "India",
+      "region": "Gujarat",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-017",
+      "sku": "SAR-WOM-017",
+      "name": "Women's Festive Saree",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Sarees",
+      "price": 2999,
+      "originalPrice": 3999,
+      "discountPercentage": 25,
+      "currency": "INR",
+      "stock": 18,
+      "availability": "In Stock",
+      "shortDescription": "Stylish sarees designed for comfortable women wear.",
+      "description": "Women's Festive Saree combines contemporary style, comfortable fit and quality silk blend fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-017-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Silk Blend",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Red",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Silk Blend"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Festive Saree - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Festive Saree",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.7,
+      "reviewCount": 266,
+      "countryOfOrigin": "India",
+      "region": "Rajasthan",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-018",
+      "sku": "PAL-WOM-018",
+      "name": "Women's Cotton Palazzo Set",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Co-ord Sets",
+      "price": 1999,
+      "originalPrice": 2699,
+      "discountPercentage": 26,
+      "currency": "INR",
+      "stock": 24,
+      "availability": "In Stock",
+      "shortDescription": "Stylish co-ord sets designed for comfortable women wear.",
+      "description": "Women's Cotton Palazzo Set combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-018-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Yellow",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Women's Cotton Palazzo Set - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Women's Cotton Palazzo Set",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.2,
+      "reviewCount": 279,
+      "countryOfOrigin": "India",
+      "region": "West Bengal",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-019",
+      "sku": "TS-KID-019",
+      "name": "Kids Printed Casual T-Shirt",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Kids Wear",
+      "price": 699,
+      "originalPrice": 999,
+      "discountPercentage": 30,
+      "currency": "INR",
+      "stock": 60,
+      "availability": "In Stock",
+      "shortDescription": "Stylish kids wear designed for comfortable kids wear.",
+      "description": "Kids Printed Casual T-Shirt combines contemporary style, comfortable fit and quality cotton fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-019-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Cotton",
+        "Fit": "Regular Fit",
+        "Pattern": "Printed",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Orange",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Cotton"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Kids Printed Casual T-Shirt - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Kids Printed Casual T-Shirt",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Kids",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.3,
+      "reviewCount": 292,
+      "countryOfOrigin": "India",
+      "region": "Andhra Pradesh",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FAS-020",
+      "sku": "DUN-KID-020",
+      "name": "Kids Denim Dungaree Set",
+      "brand": "UrbanStyle",
+      "category": "Fashion",
+      "subCategory": "Kids Wear",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercentage": 28,
+      "currency": "INR",
+      "stock": 27,
+      "availability": "In Stock",
+      "shortDescription": "Stylish kids wear designed for comfortable kids wear.",
+      "description": "Kids Denim Dungaree Set combines contemporary style, comfortable fit and quality denim fabric.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/Fashion-catelog/main/fashion-020-5.jpg"
+      ],
+      "specifications": {
+        "FabricMaterial": "Denim",
+        "Fit": "Regular Fit",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Sleeve": "Full Sleeve",
+        "CareInstructions": "Machine wash cold with similar colors"
+      },
+      "variants": {
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Blue",
+          "Black",
+          "White"
+        ],
+        "material": [
+          "Denim"
+        ]
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStyle Fashion Manufacturing",
+        "Brand": "UrbanStyle",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStyle Apparel Pvt. Ltd.",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "7 Days",
+        "WarrantyType": "Seller Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "Kids Denim Dungaree Set - 1",
+        "Product Packaging",
+        "Care Instructions"
+      ],
+      "itemDetails": {
+        "ItemType": "Fashion Apparel",
+        "ModelName": "Kids Denim Dungaree Set",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Kids",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "customerRating": 4.4,
+      "reviewCount": 305,
+      "countryOfOrigin": "India",
+      "region": "Tamil Nadu",
+      "sellerInformation": {
+        "sellerId": "SELLER-FASHION-002",
+        "sellerName": "UrbanStyle Fashion",
+        "sellerRating": 4.5
+      }
+    }
+  ],
+  "filters": {
+    "category": {
+      "type": "multi-select",
+      "source": "products.category",
+      "label": "Category"
+    },
+    "subcategory": {
+      "type": "multi-select",
+      "source": "products.subCategory",
+      "label": "Style"
+    },
+    "size": {
+      "type": "multi-select",
+      "source": "products.variants.sizes",
+      "label": "Size"
+    },
+    "price": {
+      "type": "range",
+      "source": "products.price",
+      "label": "Price"
+    },
+    "discount": {
+      "type": "multi-select",
+      "source": "products.discountPercentage",
+      "label": "Discount"
+    },
+    "customerRating": {
+      "type": "multi-select",
+      "source": "products.customerRating",
+      "label": "Customer Rating"
+    },
+    "brand": {
+      "type": "multi-select",
+      "source": "products.brand",
+      "label": "Brand"
+    },
+    "gender": {
+      "type": "multi-select",
+      "source": "products.itemDetails.Gender",
+      "label": "Gender"
+    },
+    "country": {
+      "type": "multi-select",
+      "source": "products.countryOfOrigin",
+      "label": "Country"
+    },
+    "region": {
+      "type": "multi-select",
+      "source": "products.region",
+      "label": "Region"
+    },
+    "color": {
+      "type": "multi-select",
+      "source": "products.variants.colors",
+      "label": "Color"
+    },
+    "material": {
+      "type": "multi-select",
+      "source": "products.variants.material",
+      "label": "Material"
+    },
+    "availability": {
+      "type": "multi-select",
+      "source": "products.availability",
+      "label": "Availability"
+    }
+  }
+}
